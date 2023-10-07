@@ -1,4 +1,4 @@
-git clone https://github.com/prasannavsp80/GitPratice
+
 git pull origin main
 
 
@@ -17,3 +17,5 @@ remore repo
 
 git add filename
 
+jfgjfsllasfdsa
+asdlfjas
