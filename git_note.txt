@@ -10,7 +10,10 @@ Working directory
    git add .
    
 local repo
+
+ git commit -m "First commit"
 remore repo
 
 
 git add filename
+
